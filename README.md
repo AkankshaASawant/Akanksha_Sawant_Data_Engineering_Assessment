@@ -33,6 +33,8 @@ This project implements a simple ETL and analytics pipeline that uses Firebase F
 
 ## Insights
 See outputs/reports/analytics_summary.md
+See visualizations all the charts and insights
+
 
 ## Security rules
 Example rules are in `firestore.rules`. Deploy via `firebase deploy --only firestore:rules`.
