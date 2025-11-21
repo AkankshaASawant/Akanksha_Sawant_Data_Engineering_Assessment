@@ -1,0 +1,1063 @@
+[
+  {
+    "created_at": "2025-11-21T13:42:22.009222+00:00",
+    "steps": [
+      {
+        "instruction": "Marinate prawns with spices and rest for 30 minutes.",
+        "order": 1
+      },
+      {
+        "instruction": "Cook rice with whole spices until 60% done, drain and cool.",
+        "order": 2
+      },
+      {
+        "instruction": "Fry onions until golden; blend with tomato, coconut, and aromatics.",
+        "order": 3
+      },
+      {
+        "instruction": "Cook prawns in the masala until they turn C-shaped.",
+        "order": 4
+      },
+      {
+        "instruction": "Layer rice and masala, cook on low flame (dum) for 20–30 minutes.",
+        "order": 5
+      },
+      {
+        "instruction": "Garnish and serve hot with raita.",
+        "order": 6
+      }
+    ],
+    "description": "A fragrant and flavorful biryani layered with marinated prawns and aromatic spices.",
+    "servings": 2,
+    "tags": [
+      "seafood",
+      "indian",
+      "biryani",
+      "special"
+    ],
+    "ingredients": [
+      {
+        "quantity": "1 cup",
+        "name": "Basmati Rice"
+      },
+      {
+        "quantity": "1 tsp",
+        "name": "Oil"
+      },
+      {
+        "quantity": "1",
+        "name": "Bay Leaf"
+      },
+      {
+        "quantity": "3-4",
+        "name": "Green Cardamom"
+      },
+      {
+        "quantity": "2-3",
+        "name": "Cloves"
+      },
+      {
+        "quantity": "1/2 tsp",
+        "name": "Cumin"
+      },
+      {
+        "quantity": "pinch",
+        "name": "Salt"
+      },
+      {
+        "quantity": "3-4 cups",
+        "name": "Water"
+      },
+      {
+        "quantity": "250-300 g",
+        "name": "Prawns (clean & deveined)"
+      },
+      {
+        "quantity": "1 tbsp",
+        "name": "Biryani Masala"
+      },
+      {
+        "quantity": "1/2 tsp",
+        "name": "Garam Masala"
+      },
+      {
+        "quantity": "1 tsp",
+        "name": "Turmeric Powder"
+      },
+      {
+        "quantity": "1-2 tsp",
+        "name": "Chilli Powder"
+      },
+      {
+        "quantity": "1 tbsp",
+        "name": "Ginger Garlic Paste"
+      },
+      {
+        "quantity": "1 large",
+        "name": "Onion (sliced)"
+      },
+      {
+        "quantity": "1 medium",
+        "name": "Tomato (chopped)"
+      },
+      {
+        "quantity": "1-3 small",
+        "name": "Garlic Cloves"
+      },
+      {
+        "quantity": "small piece",
+        "name": "Ginger"
+      },
+      {
+        "quantity": "handful",
+        "name": "Coriander Leaves"
+      },
+      {
+        "quantity": "2-3 tbsp",
+        "name": "Grated Coconut"
+      },
+      {
+        "quantity": "5-7 leaves",
+        "name": "Coriander Leaves (garnish)"
+      },
+      {
+        "quantity": "2-3 tbsp",
+        "name": "Grated Coconut (garnish)"
+      }
+    ],
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 45,
+    "difficulty": "medium",
+    "title": "Prawns Biryani",
+    "_id": "akanksha_recipe"
+  },
+  {
+    "created_at": "2025-11-21T13:42:24.342822+00:00",
+    "steps": [
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 1
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 2
+      },
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 3
+      }
+    ],
+    "description": "A classic traditional dish enjoyed across households.",
+    "servings": 3,
+    "tags": [
+      "indian",
+      "veg",
+      "comfort-food"
+    ],
+    "ingredients": [
+      {
+        "quantity": "440 tbsp",
+        "name": "Tomato"
+      },
+      {
+        "quantity": "283 tsp",
+        "name": "Potato"
+      },
+      {
+        "quantity": "210 pieces",
+        "name": "Salt"
+      },
+      {
+        "quantity": "27 pieces",
+        "name": "Prawns"
+      }
+    ],
+    "prep_time_minutes": 40,
+    "cook_time_minutes": 34,
+    "difficulty": "easy",
+    "title": "Egg Fry",
+    "_id": "recipe_1"
+  },
+  {
+    "created_at": "2025-11-21T13:42:31.502878+00:00",
+    "steps": [
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 1
+      },
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 2
+      },
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 3
+      },
+      {
+        "instruction": "Add the main ingredient and cook thoroughly.",
+        "order": 4
+      }
+    ],
+    "description": "A classic traditional dish enjoyed across households.",
+    "servings": 2,
+    "tags": [
+      "quick",
+      "traditional",
+      "lunch",
+      "spicy"
+    ],
+    "ingredients": [
+      {
+        "quantity": "93 tsp",
+        "name": "Mustard Seeds"
+      },
+      {
+        "quantity": "416 tbsp",
+        "name": "Bell Pepper"
+      },
+      {
+        "quantity": "47 cups",
+        "name": "Red Chilli Powder"
+      },
+      {
+        "quantity": "393 tbsp",
+        "name": "Butter"
+      },
+      {
+        "quantity": "332 cups",
+        "name": "Coconut Milk"
+      },
+      {
+        "quantity": "456 ml",
+        "name": "Chicken"
+      },
+      {
+        "quantity": "361 ml",
+        "name": "Onion"
+      },
+      {
+        "quantity": "226 tbsp",
+        "name": "Cumin Seeds"
+      }
+    ],
+    "prep_time_minutes": 28,
+    "cook_time_minutes": 24,
+    "difficulty": "easy",
+    "title": "Mushroom Salad",
+    "_id": "recipe_10"
+  },
+  {
+    "created_at": "2025-11-21T13:42:32.838515+00:00",
+    "steps": [
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 1
+      },
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 2
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 3
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 4
+      },
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 5
+      },
+      {
+        "instruction": "Heat oil in a pan over medium flame.",
+        "order": 6
+      }
+    ],
+    "description": "A simple and delicious recipe perfect for weekday dinners.",
+    "servings": 2,
+    "tags": [
+      "quick",
+      "lunch"
+    ],
+    "ingredients": [
+      {
+        "quantity": "269 tbsp",
+        "name": "Black Pepper"
+      },
+      {
+        "quantity": "142 cups",
+        "name": "Red Chilli Powder"
+      },
+      {
+        "quantity": "94 ml",
+        "name": "Turmeric Powder"
+      },
+      {
+        "quantity": "500 cups",
+        "name": "Olive Oil"
+      },
+      {
+        "quantity": "423 ml",
+        "name": "Bell Pepper"
+      },
+      {
+        "quantity": "131 pieces",
+        "name": "Green Chilli"
+      },
+      {
+        "quantity": "287 g",
+        "name": "Cumin Seeds"
+      },
+      {
+        "quantity": "469 g",
+        "name": "Vegetable Oil"
+      }
+    ],
+    "prep_time_minutes": 27,
+    "cook_time_minutes": 56,
+    "difficulty": "hard",
+    "title": "Vegetable Curry",
+    "_id": "recipe_11"
+  },
+  {
+    "created_at": "2025-11-21T13:42:33.195479+00:00",
+    "steps": [
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 1
+      },
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 2
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 3
+      },
+      {
+        "instruction": "Add the main ingredient and cook thoroughly.",
+        "order": 4
+      }
+    ],
+    "description": "A quick and healthy comfort meal ideal for busy days.",
+    "servings": 2,
+    "tags": [
+      "lunch",
+      "dinner",
+      "spicy",
+      "non-veg"
+    ],
+    "ingredients": [
+      {
+        "quantity": "277 cups",
+        "name": "Red Chilli Powder"
+      },
+      {
+        "quantity": "62 ml",
+        "name": "Mustard Seeds"
+      },
+      {
+        "quantity": "79 g",
+        "name": "Butter"
+      },
+      {
+        "quantity": "151 tsp",
+        "name": "Coriander"
+      },
+      {
+        "quantity": "488 g",
+        "name": "Olive Oil"
+      },
+      {
+        "quantity": "253 cups",
+        "name": "Ginger"
+      }
+    ],
+    "prep_time_minutes": 26,
+    "cook_time_minutes": 41,
+    "difficulty": "hard",
+    "title": "Vegetable Soup",
+    "_id": "recipe_12"
+  },
+  {
+    "created_at": "2025-11-21T13:42:34.471851+00:00",
+    "steps": [
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 1
+      },
+      {
+        "instruction": "Mix in the spices and cook for 2–3 minutes.",
+        "order": 2
+      },
+      {
+        "instruction": "Heat oil in a pan over medium flame.",
+        "order": 3
+      }
+    ],
+    "description": "A classic traditional dish enjoyed across households.",
+    "servings": 3,
+    "tags": [
+      "spicy",
+      "lunch",
+      "indian"
+    ],
+    "ingredients": [
+      {
+        "quantity": "38 tsp",
+        "name": "Carrot"
+      },
+      {
+        "quantity": "187 tbsp",
+        "name": "Garlic"
+      },
+      {
+        "quantity": "82 pieces",
+        "name": "Milk"
+      },
+      {
+        "quantity": "305 tbsp",
+        "name": "Chicken"
+      },
+      {
+        "quantity": "119 g",
+        "name": "Butter"
+      },
+      {
+        "quantity": "21 cups",
+        "name": "Carrot"
+      },
+      {
+        "quantity": "213 ml",
+        "name": "Green Chilli"
+      },
+      {
+        "quantity": "438 cups",
+        "name": "Prawns"
+      }
+    ],
+    "prep_time_minutes": 26,
+    "cook_time_minutes": 28,
+    "difficulty": "hard",
+    "title": "Mushroom Fry",
+    "_id": "recipe_13"
+  },
+  {
+    "created_at": "2025-11-21T13:42:34.861740+00:00",
+    "steps": [
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 1
+      },
+      {
+        "instruction": "Add the main ingredient and cook thoroughly.",
+        "order": 2
+      },
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 3
+      }
+    ],
+    "description": "A quick and healthy comfort meal ideal for busy days.",
+    "servings": 4,
+    "tags": [
+      "easy",
+      "dinner"
+    ],
+    "ingredients": [
+      {
+        "quantity": "381 tbsp",
+        "name": "Peas"
+      },
+      {
+        "quantity": "351 cups",
+        "name": "Chicken"
+      },
+      {
+        "quantity": "168 cups",
+        "name": "Prawns"
+      },
+      {
+        "quantity": "142 pieces",
+        "name": "Butter"
+      },
+      {
+        "quantity": "99 g",
+        "name": "Olive Oil"
+      },
+      {
+        "quantity": "320 cups",
+        "name": "Coriander"
+      },
+      {
+        "quantity": "167 cups",
+        "name": "Cumin Seeds"
+      },
+      {
+        "quantity": "189 g",
+        "name": "Olive Oil"
+      }
+    ],
+    "prep_time_minutes": 19,
+    "cook_time_minutes": 46,
+    "difficulty": "medium",
+    "title": "Fish Fry",
+    "_id": "recipe_14"
+  },
+  {
+    "created_at": "2025-11-21T13:42:36.130173+00:00",
+    "steps": [
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 1
+      },
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 2
+      },
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 3
+      },
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 4
+      },
+      {
+        "instruction": "Add the main ingredient and cook thoroughly.",
+        "order": 5
+      },
+      {
+        "instruction": "Mix in the spices and cook for 2–3 minutes.",
+        "order": 6
+      }
+    ],
+    "description": "A simple and delicious recipe perfect for weekday dinners.",
+    "servings": 6,
+    "tags": [
+      "dinner",
+      "non-veg"
+    ],
+    "ingredients": [
+      {
+        "quantity": "145 tsp",
+        "name": "Coriander"
+      },
+      {
+        "quantity": "93 tbsp",
+        "name": "Vegetable Oil"
+      },
+      {
+        "quantity": "386 ml",
+        "name": "Garlic"
+      },
+      {
+        "quantity": "347 pieces",
+        "name": "Carrot"
+      },
+      {
+        "quantity": "186 cups",
+        "name": "Prawns"
+      }
+    ],
+    "prep_time_minutes": 18,
+    "cook_time_minutes": 56,
+    "difficulty": "medium",
+    "title": "Mushroom Masala",
+    "_id": "recipe_15"
+  },
+  {
+    "created_at": "2025-11-21T13:42:24.712506+00:00",
+    "steps": [
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 1
+      },
+      {
+        "instruction": "Heat oil in a pan over medium flame.",
+        "order": 2
+      },
+      {
+        "instruction": "Mix in the spices and cook for 2–3 minutes.",
+        "order": 3
+      }
+    ],
+    "description": "A flavorful homemade dish made with aromatic spices and fresh ingredients.",
+    "servings": 6,
+    "tags": [
+      "spicy"
+    ],
+    "ingredients": [
+      {
+        "quantity": "10 pieces",
+        "name": "Onion"
+      },
+      {
+        "quantity": "86 pieces",
+        "name": "Vegetable Oil"
+      },
+      {
+        "quantity": "404 ml",
+        "name": "Ginger"
+      },
+      {
+        "quantity": "420 cups",
+        "name": "Red Chilli Powder"
+      }
+    ],
+    "prep_time_minutes": 16,
+    "cook_time_minutes": 60,
+    "difficulty": "easy",
+    "title": "Potato Salad",
+    "_id": "recipe_2"
+  },
+  {
+    "created_at": "2025-11-21T13:42:26.010933+00:00",
+    "steps": [
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 1
+      },
+      {
+        "instruction": "Add the main ingredient and cook thoroughly.",
+        "order": 2
+      },
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 3
+      },
+      {
+        "instruction": "Add the main ingredient and cook thoroughly.",
+        "order": 4
+      },
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 5
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 6
+      },
+      {
+        "instruction": "Heat oil in a pan over medium flame.",
+        "order": 7
+      }
+    ],
+    "description": "A classic traditional dish enjoyed across households.",
+    "servings": 5,
+    "tags": [
+      "dinner",
+      "comfort-food",
+      "lunch",
+      "traditional"
+    ],
+    "ingredients": [
+      {
+        "quantity": "68 ml",
+        "name": "Green Chilli"
+      },
+      {
+        "quantity": "488 tbsp",
+        "name": "Olive Oil"
+      },
+      {
+        "quantity": "408 cups",
+        "name": "Coriander"
+      },
+      {
+        "quantity": "64 ml",
+        "name": "Turmeric Powder"
+      },
+      {
+        "quantity": "171 cups",
+        "name": "Tomato"
+      },
+      {
+        "quantity": "27 pieces",
+        "name": "Mustard Seeds"
+      },
+      {
+        "quantity": "434 g",
+        "name": "Coconut Milk"
+      },
+      {
+        "quantity": "256 tbsp",
+        "name": "Chicken"
+      }
+    ],
+    "prep_time_minutes": 31,
+    "cook_time_minutes": 43,
+    "difficulty": "easy",
+    "title": "Egg Biryani",
+    "_id": "recipe_3"
+  },
+  {
+    "created_at": "2025-11-21T13:42:26.432630+00:00",
+    "steps": [
+      {
+        "instruction": "Heat oil in a pan over medium flame.",
+        "order": 1
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 2
+      },
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 3
+      },
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 4
+      },
+      {
+        "instruction": "Mix in the spices and cook for 2–3 minutes.",
+        "order": 5
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 6
+      }
+    ],
+    "description": "A classic traditional dish enjoyed across households.",
+    "servings": 6,
+    "tags": [
+      "dinner",
+      "lunch",
+      "indian"
+    ],
+    "ingredients": [
+      {
+        "quantity": "179 g",
+        "name": "Turmeric Powder"
+      },
+      {
+        "quantity": "96 pieces",
+        "name": "Prawns"
+      },
+      {
+        "quantity": "38 g",
+        "name": "Garlic"
+      },
+      {
+        "quantity": "334 g",
+        "name": "Garlic"
+      },
+      {
+        "quantity": "176 cups",
+        "name": "Peas"
+      },
+      {
+        "quantity": "119 tbsp",
+        "name": "Green Chilli"
+      },
+      {
+        "quantity": "387 cups",
+        "name": "Cumin Seeds"
+      },
+      {
+        "quantity": "281 tsp",
+        "name": "Cumin Seeds"
+      }
+    ],
+    "prep_time_minutes": 19,
+    "cook_time_minutes": 22,
+    "difficulty": "medium",
+    "title": "Egg Biryani",
+    "_id": "recipe_4"
+  },
+  {
+    "created_at": "2025-11-21T13:42:27.699955+00:00",
+    "steps": [
+      {
+        "instruction": "Mix in the spices and cook for 2–3 minutes.",
+        "order": 1
+      },
+      {
+        "instruction": "Add the main ingredient and cook thoroughly.",
+        "order": 2
+      },
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 3
+      },
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 4
+      }
+    ],
+    "description": "A flavorful homemade dish made with aromatic spices and fresh ingredients.",
+    "servings": 3,
+    "tags": [
+      "veg"
+    ],
+    "ingredients": [
+      {
+        "quantity": "220 g",
+        "name": "Red Chilli Powder"
+      },
+      {
+        "quantity": "223 ml",
+        "name": "Butter"
+      },
+      {
+        "quantity": "364 tbsp",
+        "name": "Carrot"
+      },
+      {
+        "quantity": "260 cups",
+        "name": "Tomato"
+      }
+    ],
+    "prep_time_minutes": 24,
+    "cook_time_minutes": 33,
+    "difficulty": "medium",
+    "title": "Potato Curry",
+    "_id": "recipe_5"
+  },
+  {
+    "created_at": "2025-11-21T13:42:28.095740+00:00",
+    "steps": [
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 1
+      },
+      {
+        "instruction": "Mix in the spices and cook for 2–3 minutes.",
+        "order": 2
+      },
+      {
+        "instruction": "Mix in the spices and cook for 2–3 minutes.",
+        "order": 3
+      },
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 4
+      }
+    ],
+    "description": "A classic traditional dish enjoyed across households.",
+    "servings": 2,
+    "tags": [
+      "non-veg",
+      "veg"
+    ],
+    "ingredients": [
+      {
+        "quantity": "454 tbsp",
+        "name": "Chicken"
+      },
+      {
+        "quantity": "336 tsp",
+        "name": "Black Pepper"
+      },
+      {
+        "quantity": "398 cups",
+        "name": "Basmati Rice"
+      },
+      {
+        "quantity": "466 g",
+        "name": "Coriander"
+      },
+      {
+        "quantity": "213 g",
+        "name": "Tomato"
+      },
+      {
+        "quantity": "261 tsp",
+        "name": "Butter"
+      },
+      {
+        "quantity": "489 pieces",
+        "name": "Chicken"
+      },
+      {
+        "quantity": "54 tsp",
+        "name": "Garlic"
+      }
+    ],
+    "prep_time_minutes": 16,
+    "cook_time_minutes": 58,
+    "difficulty": "hard",
+    "title": "Potato Stew",
+    "_id": "recipe_6"
+  },
+  {
+    "created_at": "2025-11-21T13:42:29.423519+00:00",
+    "steps": [
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 1
+      },
+      {
+        "instruction": "Add the main ingredient and cook thoroughly.",
+        "order": 2
+      },
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 3
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 4
+      },
+      {
+        "instruction": "Heat oil in a pan over medium flame.",
+        "order": 5
+      },
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 6
+      }
+    ],
+    "description": "A rich, creamy, and comforting preparation with balanced spices.",
+    "servings": 6,
+    "tags": [
+      "indian"
+    ],
+    "ingredients": [
+      {
+        "quantity": "298 pieces",
+        "name": "Turmeric Powder"
+      },
+      {
+        "quantity": "404 tbsp",
+        "name": "Ginger"
+      },
+      {
+        "quantity": "217 cups",
+        "name": "Basmati Rice"
+      },
+      {
+        "quantity": "256 cups",
+        "name": "Tomato"
+      }
+    ],
+    "prep_time_minutes": 13,
+    "cook_time_minutes": 40,
+    "difficulty": "hard",
+    "title": "Chicken Curry",
+    "_id": "recipe_7"
+  },
+  {
+    "created_at": "2025-11-21T13:42:29.794362+00:00",
+    "steps": [
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 1
+      },
+      {
+        "instruction": "Add chopped onions and sauté until golden brown.",
+        "order": 2
+      },
+      {
+        "instruction": "Heat oil in a pan over medium flame.",
+        "order": 3
+      },
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 4
+      }
+    ],
+    "description": "A rich, creamy, and comforting preparation with balanced spices.",
+    "servings": 5,
+    "tags": [
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "quantity": "32 ml",
+        "name": "Milk"
+      },
+      {
+        "quantity": "424 tbsp",
+        "name": "Tomato"
+      },
+      {
+        "quantity": "170 g",
+        "name": "Coconut Milk"
+      },
+      {
+        "quantity": "237 tsp",
+        "name": "Vegetable Oil"
+      }
+    ],
+    "prep_time_minutes": 33,
+    "cook_time_minutes": 52,
+    "difficulty": "hard",
+    "title": "Potato Stew",
+    "_id": "recipe_8"
+  },
+  {
+    "created_at": "2025-11-21T13:42:31.135877+00:00",
+    "steps": [
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 1
+      },
+      {
+        "instruction": "Add the main ingredient and cook thoroughly.",
+        "order": 2
+      },
+      {
+        "instruction": "Simmer on low flame for enhanced flavor.",
+        "order": 3
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 4
+      },
+      {
+        "instruction": "Add tomatoes and cook until they turn soft.",
+        "order": 5
+      },
+      {
+        "instruction": "Garnish with fresh coriander and serve hot.",
+        "order": 6
+      }
+    ],
+    "description": "A flavorful homemade dish made with aromatic spices and fresh ingredients.",
+    "servings": 5,
+    "tags": [
+      "traditional",
+      "spicy",
+      "quick",
+      "dinner"
+    ],
+    "ingredients": [
+      {
+        "quantity": "300 tbsp",
+        "name": "Mustard Seeds"
+      },
+      {
+        "quantity": "67 pieces",
+        "name": "Onion"
+      },
+      {
+        "quantity": "369 pieces",
+        "name": "Tomato"
+      },
+      {
+        "quantity": "128 tsp",
+        "name": "Butter"
+      },
+      {
+        "quantity": "12 pieces",
+        "name": "Black Pepper"
+      },
+      {
+        "quantity": "375 tbsp",
+        "name": "Mustard Seeds"
+      },
+      {
+        "quantity": "445 ml",
+        "name": "Black Pepper"
+      }
+    ],
+    "prep_time_minutes": 11,
+    "cook_time_minutes": 46,
+    "difficulty": "hard",
+    "title": "Potato Stew",
+    "_id": "recipe_9"
+  }
+]

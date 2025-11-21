@@ -1,0 +1,11 @@
+user_id,name,email,created_at
+user_1,Katherine Galvan,user1@example.com,2025-11-21T13:42:36.535897+00:00
+user_10,Ronald Moran,user10@example.com,2025-11-21T13:42:44.346494+00:00
+user_2,Sara Park,user2@example.com,2025-11-21T13:42:37.759021+00:00
+user_3,Kevin Werner,user3@example.com,2025-11-21T13:42:38.179066+00:00
+user_4,Amanda Martinez,user4@example.com,2025-11-21T13:42:39.394421+00:00
+user_5,Danielle Kirby,user5@example.com,2025-11-21T13:42:39.862236+00:00
+user_6,Eric Newman,user6@example.com,2025-11-21T13:42:41.055442+00:00
+user_7,Megan Wilson,user7@example.com,2025-11-21T13:42:41.491133+00:00
+user_8,Michael Christian,user8@example.com,2025-11-21T13:42:42.711283+00:00
+user_9,Michael Harrison,user9@example.com,2025-11-21T13:42:43.161564+00:00

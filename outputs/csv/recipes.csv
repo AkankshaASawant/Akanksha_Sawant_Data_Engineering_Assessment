@@ -1,0 +1,17 @@
+recipe_id,title,description,prep_time_minutes,cook_time_minutes,difficulty,servings,tags,created_at
+akanksha_recipe,Prawns Biryani,A fragrant and flavorful biryani layered with marinated prawns and aromatic spices.,30,45,medium,2,"seafood,indian,biryani,special",2025-11-21T13:42:22.009222+00:00
+recipe_1,Egg Fry,A classic traditional dish enjoyed across households.,40,34,easy,3,"indian,veg,comfort-food",2025-11-21T13:42:24.342822+00:00
+recipe_10,Mushroom Salad,A classic traditional dish enjoyed across households.,28,24,easy,2,"quick,traditional,lunch,spicy",2025-11-21T13:42:31.502878+00:00
+recipe_11,Vegetable Curry,A simple and delicious recipe perfect for weekday dinners.,27,56,hard,2,"quick,lunch",2025-11-21T13:42:32.838515+00:00
+recipe_12,Vegetable Soup,A quick and healthy comfort meal ideal for busy days.,26,41,hard,2,"lunch,dinner,spicy,non-veg",2025-11-21T13:42:33.195479+00:00
+recipe_13,Mushroom Fry,A classic traditional dish enjoyed across households.,26,28,hard,3,"spicy,lunch,indian",2025-11-21T13:42:34.471851+00:00
+recipe_14,Fish Fry,A quick and healthy comfort meal ideal for busy days.,19,46,medium,4,"easy,dinner",2025-11-21T13:42:34.861740+00:00
+recipe_15,Mushroom Masala,A simple and delicious recipe perfect for weekday dinners.,18,56,medium,6,"dinner,non-veg",2025-11-21T13:42:36.130173+00:00
+recipe_2,Potato Salad,A flavorful homemade dish made with aromatic spices and fresh ingredients.,16,60,easy,6,spicy,2025-11-21T13:42:24.712506+00:00
+recipe_3,Egg Biryani,A classic traditional dish enjoyed across households.,31,43,easy,5,"dinner,comfort-food,lunch,traditional",2025-11-21T13:42:26.010933+00:00
+recipe_4,Egg Biryani,A classic traditional dish enjoyed across households.,19,22,medium,6,"dinner,lunch,indian",2025-11-21T13:42:26.432630+00:00
+recipe_5,Potato Curry,A flavorful homemade dish made with aromatic spices and fresh ingredients.,24,33,medium,3,veg,2025-11-21T13:42:27.699955+00:00
+recipe_6,Potato Stew,A classic traditional dish enjoyed across households.,16,58,hard,2,"non-veg,veg",2025-11-21T13:42:28.095740+00:00
+recipe_7,Chicken Curry,"A rich, creamy, and comforting preparation with balanced spices.",13,40,hard,6,indian,2025-11-21T13:42:29.423519+00:00
+recipe_8,Potato Stew,"A rich, creamy, and comforting preparation with balanced spices.",33,52,hard,5,quick,2025-11-21T13:42:29.794362+00:00
+recipe_9,Potato Stew,A flavorful homemade dish made with aromatic spices and fresh ingredients.,11,46,hard,5,"traditional,spicy,quick,dinner",2025-11-21T13:42:31.135877+00:00

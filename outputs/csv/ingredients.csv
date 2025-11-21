@@ -1,0 +1,117 @@
+recipe_id,ingredient_order,name,quantity
+akanksha_recipe,1,Basmati Rice,1 cup
+akanksha_recipe,2,Oil,1 tsp
+akanksha_recipe,3,Bay Leaf,1
+akanksha_recipe,4,Green Cardamom,3-4
+akanksha_recipe,5,Cloves,2-3
+akanksha_recipe,6,Cumin,1/2 tsp
+akanksha_recipe,7,Salt,pinch
+akanksha_recipe,8,Water,3-4 cups
+akanksha_recipe,9,Prawns (clean & deveined),250-300 g
+akanksha_recipe,10,Biryani Masala,1 tbsp
+akanksha_recipe,11,Garam Masala,1/2 tsp
+akanksha_recipe,12,Turmeric Powder,1 tsp
+akanksha_recipe,13,Chilli Powder,1-2 tsp
+akanksha_recipe,14,Ginger Garlic Paste,1 tbsp
+akanksha_recipe,15,Onion (sliced),1 large
+akanksha_recipe,16,Tomato (chopped),1 medium
+akanksha_recipe,17,Garlic Cloves,1-3 small
+akanksha_recipe,18,Ginger,small piece
+akanksha_recipe,19,Coriander Leaves,handful
+akanksha_recipe,20,Grated Coconut,2-3 tbsp
+akanksha_recipe,21,Coriander Leaves (garnish),5-7 leaves
+akanksha_recipe,22,Grated Coconut (garnish),2-3 tbsp
+recipe_1,1,Tomato,440 tbsp
+recipe_1,2,Potato,283 tsp
+recipe_1,3,Salt,210 pieces
+recipe_1,4,Prawns,27 pieces
+recipe_10,1,Mustard Seeds,93 tsp
+recipe_10,2,Bell Pepper,416 tbsp
+recipe_10,3,Red Chilli Powder,47 cups
+recipe_10,4,Butter,393 tbsp
+recipe_10,5,Coconut Milk,332 cups
+recipe_10,6,Chicken,456 ml
+recipe_10,7,Onion,361 ml
+recipe_10,8,Cumin Seeds,226 tbsp
+recipe_11,1,Black Pepper,269 tbsp
+recipe_11,2,Red Chilli Powder,142 cups
+recipe_11,3,Turmeric Powder,94 ml
+recipe_11,4,Olive Oil,500 cups
+recipe_11,5,Bell Pepper,423 ml
+recipe_11,6,Green Chilli,131 pieces
+recipe_11,7,Cumin Seeds,287 g
+recipe_11,8,Vegetable Oil,469 g
+recipe_12,1,Red Chilli Powder,277 cups
+recipe_12,2,Mustard Seeds,62 ml
+recipe_12,3,Butter,79 g
+recipe_12,4,Coriander,151 tsp
+recipe_12,5,Olive Oil,488 g
+recipe_12,6,Ginger,253 cups
+recipe_13,1,Carrot,38 tsp
+recipe_13,2,Garlic,187 tbsp
+recipe_13,3,Milk,82 pieces
+recipe_13,4,Chicken,305 tbsp
+recipe_13,5,Butter,119 g
+recipe_13,6,Carrot,21 cups
+recipe_13,7,Green Chilli,213 ml
+recipe_13,8,Prawns,438 cups
+recipe_14,1,Peas,381 tbsp
+recipe_14,2,Chicken,351 cups
+recipe_14,3,Prawns,168 cups
+recipe_14,4,Butter,142 pieces
+recipe_14,5,Olive Oil,99 g
+recipe_14,6,Coriander,320 cups
+recipe_14,7,Cumin Seeds,167 cups
+recipe_14,8,Olive Oil,189 g
+recipe_15,1,Coriander,145 tsp
+recipe_15,2,Vegetable Oil,93 tbsp
+recipe_15,3,Garlic,386 ml
+recipe_15,4,Carrot,347 pieces
+recipe_15,5,Prawns,186 cups
+recipe_2,1,Onion,10 pieces
+recipe_2,2,Vegetable Oil,86 pieces
+recipe_2,3,Ginger,404 ml
+recipe_2,4,Red Chilli Powder,420 cups
+recipe_3,1,Green Chilli,68 ml
+recipe_3,2,Olive Oil,488 tbsp
+recipe_3,3,Coriander,408 cups
+recipe_3,4,Turmeric Powder,64 ml
+recipe_3,5,Tomato,171 cups
+recipe_3,6,Mustard Seeds,27 pieces
+recipe_3,7,Coconut Milk,434 g
+recipe_3,8,Chicken,256 tbsp
+recipe_4,1,Turmeric Powder,179 g
+recipe_4,2,Prawns,96 pieces
+recipe_4,3,Garlic,38 g
+recipe_4,4,Garlic,334 g
+recipe_4,5,Peas,176 cups
+recipe_4,6,Green Chilli,119 tbsp
+recipe_4,7,Cumin Seeds,387 cups
+recipe_4,8,Cumin Seeds,281 tsp
+recipe_5,1,Red Chilli Powder,220 g
+recipe_5,2,Butter,223 ml
+recipe_5,3,Carrot,364 tbsp
+recipe_5,4,Tomato,260 cups
+recipe_6,1,Chicken,454 tbsp
+recipe_6,2,Black Pepper,336 tsp
+recipe_6,3,Basmati Rice,398 cups
+recipe_6,4,Coriander,466 g
+recipe_6,5,Tomato,213 g
+recipe_6,6,Butter,261 tsp
+recipe_6,7,Chicken,489 pieces
+recipe_6,8,Garlic,54 tsp
+recipe_7,1,Turmeric Powder,298 pieces
+recipe_7,2,Ginger,404 tbsp
+recipe_7,3,Basmati Rice,217 cups
+recipe_7,4,Tomato,256 cups
+recipe_8,1,Milk,32 ml
+recipe_8,2,Tomato,424 tbsp
+recipe_8,3,Coconut Milk,170 g
+recipe_8,4,Vegetable Oil,237 tsp
+recipe_9,1,Mustard Seeds,300 tbsp
+recipe_9,2,Onion,67 pieces
+recipe_9,3,Tomato,369 pieces
+recipe_9,4,Butter,128 tsp
+recipe_9,5,Black Pepper,12 pieces
+recipe_9,6,Mustard Seeds,375 tbsp
+recipe_9,7,Black Pepper,445 ml

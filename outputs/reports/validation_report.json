@@ -1,0 +1,17 @@
+{
+  "recipes": {
+    "valid_count": 16,
+    "invalid_count": 0,
+    "invalid_rows": []
+  },
+  "interactions": {
+    "valid_count": 889,
+    "invalid_count": 0,
+    "invalid_rows": []
+  },
+  "users": {
+    "valid_count": 10,
+    "invalid_count": 0,
+    "invalid_rows": []
+  }
+}

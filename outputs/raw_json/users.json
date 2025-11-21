@@ -1,0 +1,62 @@
+[
+  {
+    "joined_at": "2025-11-21T13:42:36.535897+00:00",
+    "displayName": "Katherine Galvan",
+    "email": "user1@example.com",
+    "_id": "user_1"
+  },
+  {
+    "joined_at": "2025-11-21T13:42:44.346494+00:00",
+    "displayName": "Ronald Moran",
+    "email": "user10@example.com",
+    "_id": "user_10"
+  },
+  {
+    "joined_at": "2025-11-21T13:42:37.759021+00:00",
+    "displayName": "Sara Park",
+    "email": "user2@example.com",
+    "_id": "user_2"
+  },
+  {
+    "joined_at": "2025-11-21T13:42:38.179066+00:00",
+    "displayName": "Kevin Werner",
+    "email": "user3@example.com",
+    "_id": "user_3"
+  },
+  {
+    "joined_at": "2025-11-21T13:42:39.394421+00:00",
+    "displayName": "Amanda Martinez",
+    "email": "user4@example.com",
+    "_id": "user_4"
+  },
+  {
+    "joined_at": "2025-11-21T13:42:39.862236+00:00",
+    "displayName": "Danielle Kirby",
+    "email": "user5@example.com",
+    "_id": "user_5"
+  },
+  {
+    "joined_at": "2025-11-21T13:42:41.055442+00:00",
+    "displayName": "Eric Newman",
+    "email": "user6@example.com",
+    "_id": "user_6"
+  },
+  {
+    "joined_at": "2025-11-21T13:42:41.491133+00:00",
+    "displayName": "Megan Wilson",
+    "email": "user7@example.com",
+    "_id": "user_7"
+  },
+  {
+    "joined_at": "2025-11-21T13:42:42.711283+00:00",
+    "displayName": "Michael Christian",
+    "email": "user8@example.com",
+    "_id": "user_8"
+  },
+  {
+    "joined_at": "2025-11-21T13:42:43.161564+00:00",
+    "displayName": "Michael Harrison",
+    "email": "user9@example.com",
+    "_id": "user_9"
+  }
+]
