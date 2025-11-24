@@ -54,7 +54,6 @@ This script configures Firebase Admin SDK and initializes the Firestore client.
 * Initializes Firebase Admin App only **once**
 * Exports a reusable Firestore client
 
-## Function Notes for Codebase
 ## **Notes for Data Generation Functions**
 
 ### `timestamp()`
