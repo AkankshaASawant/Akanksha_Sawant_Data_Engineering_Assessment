@@ -5,7 +5,7 @@ Now includes: clean schema documentation, Firebase initialization explanation, a
 
 ---
 ## Structure
-<img width="790" height="1299" alt="image" src="https://github.com/user-attachments/assets/d57e1018-3adb-41a3-99bc-ba13e224feb8" />
+<img width="621" height="1022" alt="recipr-pipeline drawio" src="https://github.com/user-attachments/assets/3a279fb3-4792-4108-9896-e71bb5555502" />
 
 
 ---
