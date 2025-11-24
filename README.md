@@ -19,7 +19,6 @@ Before running the pipeline, ensure the following are installed and configured:
 
 ```bash
 python -m venv venv
-source venv/bin/activate    # macOS/Linux
 venv\Scripts\activate       # Windows
 ```
 
@@ -54,6 +53,59 @@ This script configures Firebase Admin SDK and initializes the Firestore client.
 * Loads **serviceAccountKey.json**
 * Initializes Firebase Admin App only **once**
 * Exports a reusable Firestore client
+
+## Function Notes for Codebase
+## **Notes for Data Generation Functions**
+
+### `timestamp()`
+
+```python
+# NOTE: Returns the current UTC timestamp for consistent Firestore date fields.
+```
+
+### `generate_ingredients(n=5)`
+
+```python
+# NOTE: Generates a list of n random ingredients with realistic names and quantities.
+```
+
+### `generate_recipe_title()`
+
+```python
+# NOTE: Creates a natural-sounding recipe title using random dish + ingredient.
+```
+
+### `generate_recipe_description()`
+
+```python
+# NOTE: Returns a short, human-like recipe description from a preset list.
+```
+
+### `generate_tags()`
+
+```python
+# NOTE: Randomly selects 1–4 tags to categorize the recipe.
+```
+
+### `generate_steps(n=5)`
+
+```python
+# NOTE: Generates ordered cooking steps using realistic cooking instructions.
+```
+
+### `random_difficulty()`
+
+```python
+# NOTE: Randomly returns a difficulty label: easy / medium / hard.
+```
+
+### Firestore collection variables
+
+```python
+# NOTE: These variables reference Firestore collections used for seeding.
+```
+
+---
 
 Example:
 
@@ -157,6 +209,7 @@ Tracks user behavior.
 
 •	Users -> Recipes: optional 1-to-many (one user can upload many recipes at created_by)
 
+---
 
 # 📌 2. How to Run the Pipeline (Step-by-Step)
 
@@ -164,6 +217,26 @@ Tracks user behavior.
 
 ```bash
 python export_firestore.py
+```
+
+## **Notes for Firestore Export Script (`export_firestore.py`)**
+
+### `init_firestore_client()`
+
+```python
+# NOTE: Initializes the Firestore client, using emulator if available or service account in production.
+```
+
+### `doc_to_jsonable(d)`
+
+```python
+# NOTE: Converts a Firestore document into a JSON-serializable dictionary with ISO timestamp formatting.
+```
+
+### `export_collection(name)`
+
+```python
+# NOTE: Streams all documents from a Firestore collection and writes them to a local JSON file.
 ```
 
 → outputs `raw_json/`
@@ -176,6 +249,32 @@ python export_firestore.py
 python transform_to_csv.py
 ```
 
+## **Notes for CSV Transformation Script (`transform_to_csv.py`)**
+
+### `load_json(fname)`
+
+```python
+# NOTE: Loads a JSON file from the raw exports directory and returns the parsed list/dict.
+```
+
+### `transform_recipes()`
+
+```python
+# NOTE: Normalizes recipe, ingredient, and step data into separate CSV tables.
+```
+
+### `transform_interactions()`
+
+```python
+# NOTE: Converts interaction JSON documents into a flat interactions.csv table.
+```
+
+### `transform_users()`
+
+```python
+# NOTE: Normalizes user records into a consistent users.csv file, handling multiple field naming styles.
+```
+
 → outputs `csv/`
 
 ---
@@ -184,6 +283,32 @@ python transform_to_csv.py
 
 ```bash
 python validate.py
+```
+
+## **Notes for Validation Script (`validate.py`)**
+
+### `load(path)`
+
+```python
+# NOTE: Loads a JSON file from disk and returns its parsed content.
+```
+
+### `validate_recipes()`
+
+```python
+# NOTE: Validates recipe documents for required fields, numeric checks, and allowed difficulty values.
+```
+
+### `validate_interactions()`
+
+```python
+# NOTE: Validates interaction records ensuring required fields and valid interaction type.
+```
+
+### `validate_users()`
+
+```python
+# NOTE: Validates user documents by checking ID, name, and email format correctness.
 ```
 
 → outputs `validation_report.json`, `validation_summary.csv`
@@ -196,13 +321,42 @@ python validate.py
 python analytics.py
 ```
 
+## **Notes for Analytics Script (`analytics.py`)**
+
+### `write_df_md_csv(df, title, fname)`
+
+```python
+# NOTE: Writes a DataFrame into the main analytics_summary.md file and also exports a CSV for detailed review.
+```
+
+Additional section notes:
+
+```python
+# NOTE: Loads all CSVs and normalizes ID columns for consistent merging.
+# NOTE: Computes ingredient frequency, difficulty counts, prep-time averages, etc.
+# NOTE: Identifies high-engagement ingredients and trending recipes.
+# NOTE: Performs basic user analytics: active users, inactive users, signups.
+```
+
+→ outputs `analytics_summary`
+
 ---
+
 
 ## **STEP 5 — Generate Visual Analytics**
 
 ```bash
 python visual_analytics.py
 ```
+## **F. Notes for Visual Analytics Script (`visual_analytics.py`)**
+
+### `save_plot(name)`
+
+```python
+# NOTE: Saves the current Matplotlib figure as a PNG file and clears the plot for the next chart.
+```
+
+→ outputs `visualizations/`
 
 ---
 
@@ -237,171 +391,6 @@ python visual_analytics.py
 
 ---
 
-# 📌 **6. Function Notes for Codebase**
-
-*(Inserted short, one-line notes for each function.)*
-
----
-
-## **A. Notes for Data Generation Functions**
-
-### `timestamp()`
-
-```python
-# NOTE: Returns the current UTC timestamp for consistent Firestore date fields.
-```
-
-### `generate_ingredients(n=5)`
-
-```python
-# NOTE: Generates a list of n random ingredients with realistic names and quantities.
-```
-
-### `generate_recipe_title()`
-
-```python
-# NOTE: Creates a natural-sounding recipe title using random dish + ingredient.
-```
-
-### `generate_recipe_description()`
-
-```python
-# NOTE: Returns a short, human-like recipe description from a preset list.
-```
-
-### `generate_tags()`
-
-```python
-# NOTE: Randomly selects 1–4 tags to categorize the recipe.
-```
-
-### `generate_steps(n=5)`
-
-```python
-# NOTE: Generates ordered cooking steps using realistic cooking instructions.
-```
-
-### `random_difficulty()`
-
-```python
-# NOTE: Randomly returns a difficulty label: easy / medium / hard.
-```
-
-### Firestore collection variables
-
-```python
-# NOTE: These variables reference Firestore collections used for seeding.
-```
-
----
-
-## **B. Notes for Firestore Export Script (`export_firestore.py`)**
-
-### `init_firestore_client()`
-
-```python
-# NOTE: Initializes the Firestore client, using emulator if available or service account in production.
-```
-
-### `doc_to_jsonable(d)`
-
-```python
-# NOTE: Converts a Firestore document into a JSON-serializable dictionary with ISO timestamp formatting.
-```
-
-### `export_collection(name)`
-
-```python
-# NOTE: Streams all documents from a Firestore collection and writes them to a local JSON file.
-```
-
----
-
-## **C. Notes for CSV Transformation Script (`transform_to_csv.py`)**
-
-### `load_json(fname)`
-
-```python
-# NOTE: Loads a JSON file from the raw exports directory and returns the parsed list/dict.
-```
-
-### `transform_recipes()`
-
-```python
-# NOTE: Normalizes recipe, ingredient, and step data into separate CSV tables.
-```
-
-### `transform_interactions()`
-
-```python
-# NOTE: Converts interaction JSON documents into a flat interactions.csv table.
-```
-
-### `transform_users()`
-
-```python
-# NOTE: Normalizes user records into a consistent users.csv file, handling multiple field naming styles.
-```
-
----
-
-## **D. Notes for Validation Script (`validate.py`)**
-
-### `load(path)`
-
-```python
-# NOTE: Loads a JSON file from disk and returns its parsed content.
-```
-
-### `validate_recipes()`
-
-```python
-# NOTE: Validates recipe documents for required fields, numeric checks, and allowed difficulty values.
-```
-
-### `validate_interactions()`
-
-```python
-# NOTE: Validates interaction records ensuring required fields and valid interaction type.
-```
-
-### `validate_users()`
-
-```python
-# NOTE: Validates user documents by checking ID, name, and email format correctness.
-```
-
----
-
-## **E. Notes for Analytics Script (`analytics.py`)**
-
-### `write_df_md_csv(df, title, fname)`
-
-```python
-# NOTE: Writes a DataFrame into the main analytics_summary.md file and also exports a CSV for detailed review.
-```
-
-Additional section notes:
-
-```python
-# NOTE: Loads all CSVs and normalizes ID columns for consistent merging.
-# NOTE: Computes ingredient frequency, difficulty counts, prep-time averages, etc.
-# NOTE: Identifies high-engagement ingredients and trending recipes.
-# NOTE: Performs basic user analytics: active users, inactive users, signups.
-```
-
----
-
-## **F. Notes for Visual Analytics Script (`visual_analytics.py`)**
-
-### `save_plot(name)`
-
-```python
-# NOTE: Saves the current Matplotlib figure as a PNG file and clears the plot for the next chart.
-```
-
----
-
 # 📌 Final Summary
 
 This project provides a complete **end-to-end ETL + analytics** solution for recipe datasets sourced from Firestore.
@@ -415,4 +404,4 @@ You now have:
 * Fully documented pipeline
 * Function-specific notes for all scripts
 
-
+---
