@@ -5,7 +5,8 @@ Now includes: clean schema documentation, Firebase initialization explanation, a
 
 ---
 ## Structure
-![Recipe Pipeline Flowchart](./recipe-pipeline-flowchart.png)
+<img width="790" height="1299" alt="image" src="https://github.com/user-attachments/assets/d57e1018-3adb-41a3-99bc-ba13e224feb8" />
+
 
 ---
 # 📦 Requirements
