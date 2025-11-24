@@ -215,6 +215,11 @@ Tracks user behavior.
 
 # 📌 2. How to Run the Pipeline (Step-by-Step)
 
+##	Architecture Overview
+
+<img width="376" height="359" alt="image" src="https://github.com/user-attachments/assets/19aca810-5446-4f61-9a81-38df010bca83" />
+
+
 ## **STEP 1 — Export Firestore Data**
 
 ```bash
