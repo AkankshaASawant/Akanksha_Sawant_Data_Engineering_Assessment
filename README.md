@@ -4,7 +4,8 @@
 This project implements a simple ETL and analytics pipeline that uses Firebase Firestore as the source of truth. It inserts seed recipes, exports Firestore data to JSON, normalizes to CSVs, validates data, and computes analytics.
 
 ## Structure
-(see Project structure in repository)
+<img width="621" height="1022" alt="recipr-pipeline drawio" src="https://github.com/user-attachments/assets/bed20e96-f569-4a7d-8499-6ecdf4a999f9" />
+
 
 ## Setup
 1. Create Firebase project and Firestore (Native mode)
@@ -23,7 +24,8 @@ This project implements a simple ETL and analytics pipeline that uses Firebase F
 - users: basic user profile
 - interactions: recipe_id, user_id, type (view/like/cook_attempt), timestamp, rating (optional)
 
-(Attach ERD screenshot if required.)
+<img width="940" height="766" alt="image" src="https://github.com/user-attachments/assets/3e63bf24-08b0-4c10-a018-52c1d035a885" />
+
 
 ## Validation rules
 - Required fields: title, prep_time_minutes, cook_time_minutes, difficulty, ingredients, steps
