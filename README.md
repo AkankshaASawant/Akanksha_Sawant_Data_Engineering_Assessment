@@ -148,9 +148,13 @@ Tracks user behavior.
 
 ## Relationships summary
 •	Users -> Interactions: 1-to-many (one user may perform many interactions)
+
 •	Recipes -> Ingredients: 1-to-many (each recipe has multiple ingredients)
+
 •	Recipes -> Steps: 1-to-many (ordered steps per recipe)
+
 •	Recipes -> Interactions: 1-to-many (many users interact with a recipe)
+
 •	Users -> Recipes: optional 1-to-many (one user can upload many recipes at created_by)
 
 
