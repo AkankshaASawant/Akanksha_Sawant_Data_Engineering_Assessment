@@ -34,6 +34,7 @@ Typical dependencies:
 * `pandas`
 * `numpy`
 * `matplotlib`
+* `tabulate`
 * `seaborn`
 * `python-dotenv`
 
@@ -194,10 +195,11 @@ Tracks user behavior.
 | instruction | string  | Cooking instruction                  |
 
 ---
+## ERD Diagram: 
 
 <img width="940" height="766" alt="image" src="https://github.com/user-attachments/assets/3e63bf24-08b0-4c10-a018-52c1d035a885" />
 
-## Relationships summary
+### Relationships summary
 •	Users -> Interactions: 1-to-many (one user may perform many interactions)
 
 •	Recipes -> Ingredients: 1-to-many (each recipe has multiple ingredients)
