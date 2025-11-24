@@ -5,7 +5,7 @@ Now includes: clean schema documentation, Firebase initialization explanation, a
 
 ---
 ## Structure
-<img width="621" height="1022" alt="recipr-pipeline drawio" src="https://github.com/user-attachments/assets/bed20e96-f569-4a7d-8499-6ecdf4a999f9" />
+![Recipe Pipeline Flowchart](./recipe-pipeline-flowchart.png)
 
 ---
 # 📦 Requirements
